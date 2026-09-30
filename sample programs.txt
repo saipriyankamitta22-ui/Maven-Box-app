@@ -1,0 +1,2 @@
+this contains data that is used in the projects .
+Apache Maven is a popular build automation and project management tool primarily used for Java-based applications
